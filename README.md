@@ -5,7 +5,7 @@
 
 <p>
 
-<span>:computer: Full Stack Developer at <em><a href="https://www.wipro.com/en-IN/">Wirpo Ltd.</a></em></span>
+<span>:computer: Full Stack Developer at <em><a href="https://www.wipro.com/en-IN/">Wipro Ltd.</a></em></span>
  
 </p>
 
