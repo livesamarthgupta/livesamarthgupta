@@ -1,11 +1,11 @@
 <img align='left' src="https://i.imgur.com/ICVXzvW.png" width="230">
 </br>
 
-<h1>नमस्ते 🙏🏻, I'm <a href="https://samarth-portfolio.netlify.app/" target-"_blank">Samarth Gupta!</a><img src="https://media.giphy.com/media/jnP0GEYlnkOxA1eOEo/giphy.gif" width="90"> </h1>
+<h1>नमस्ते 🙏🏻, I'm <a href="https://guptasamarth.netlify.app/" target-"_blank">Samarth Gupta!</a><img src="https://media.giphy.com/media/jnP0GEYlnkOxA1eOEo/giphy.gif" width="90"> </h1>
 
 <p>
 
-<span>:computer: Full Stack Developer at <em><a href="https://www.wipro.com/en-IN/">Wipro Ltd.</a></em></span>
+<span>:computer: Full Stack Developer at <em><a href="https://www.teradata.com/">Teradata Corp.</a></em></span>
  
 </p>
 
