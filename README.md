@@ -53,3 +53,5 @@
 📍 **Dr. APJ Abdul Kalam Technical University** - Lucknow, India\
 📆 2015 - 2019
 
+
+<img src="https://imgur.com/rilHVxA.png"/> 
