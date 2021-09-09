@@ -5,7 +5,7 @@
 
 <p>
 
-<span>:computer: Full Stack Developer at <em><a href="https://www.teradata.com/">Teradata Corp.</a></em></span>
+<span>:computer: Software Engineer @ <em><a href="https://www.teradata.com/">Teradata</a></em></span>
  
 </p>
 <!-- 
