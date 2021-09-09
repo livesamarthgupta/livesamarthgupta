@@ -36,27 +36,29 @@
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
 - 👨‍💻 **Software Engineer**\
-📆 April, 2021 - Present\
 📍 **Teradata** - Hyderabad, India
+📆 April, 2021 - Present\
+
   
   
   
 <img align="right" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
 - 👨‍💻 **Project Engineer**\
-📆 July, 2019 - April, 2021\
 📍 **WIPRO** - Hyderabad, India
+📆 July, 2019 - April, 2021\
+
  
 ## Education
 
 - 📖 **Bachelor of Technology(CS)**\
-📆 2015 - 2019\
 📍 **Dr. APJ Abdul Kalam Technical University** - Lucknow, India
+📆 2015 - 2019\
+
 
 <!--## Skills
 
