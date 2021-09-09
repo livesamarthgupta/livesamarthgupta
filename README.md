@@ -21,7 +21,7 @@
 
 [![Samarth's github activity graph](https://activity-graph.herokuapp.com/graph?username=livesamarthgupta&theme=xcode)](https://guptasamarth.netlify.app)
 
-
+---
 ## Experience
 
 
@@ -53,5 +53,11 @@
 📍 **Dr. APJ Abdul Kalam Technical University** - Lucknow, India\
 📆 2015 - 2019
 
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k2t2apvvieektb5jr56em6qbwm&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 <img src="https://imgur.com/rilHVxA.png"/> 
