@@ -9,4 +9,4 @@
  
 </p>
 
-[![Twitter: livesamarthgupta](https://img.shields.io/twitter/follow/d_sarcastic_one?style=social&label=follow)](https://twitter.com/d_sarcastic_one)   [![Linkedin: livesamarthgupta](https://img.shields.io/badge/-follow-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/livesamarthgupta/)](https://www.linkedin.com/in/livesamarthgupta/)      [![GitHub livesamarthgupta](https://img.shields.io/github/followers/livesamarthgupta?label=follow&style=social)](https://github.com/livesamarthgupta)
+[![Twitter: livesamarthgupta](https://img.shields.io/twitter/follow/livesamarth?style=social&label=follow)](https://twitter.com/d_sarcastic_one)   [![Linkedin: livesamarthgupta](https://img.shields.io/badge/-follow-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/livesamarthgupta/)](https://www.linkedin.com/in/livesamarthgupta/)      [![GitHub livesamarthgupta](https://img.shields.io/github/followers/livesamarthgupta?label=follow&style=social)](https://github.com/livesamarthgupta)
