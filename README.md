@@ -13,7 +13,6 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-livesamarthgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/livesamarthgupta/)](https://www.linkedin.com/in/livesamarthgupta/)
-[![Instagram Badge](https://img.shields.io/badge/-livesamarthgupta-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/livesamarthgupta/)](https://instagram.com/livesamarthgupta)
 [![Gmail Badge](https://img.shields.io/badge/-livesamarthgupta-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:livesamarthgupta@gmail.com)](mailto:livesamarthgupta@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-livesamarthgupta-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/livesamarth)](https://twitter.com/livesamarth)
 <img src="https://badges.pufler.dev/visits/livesamarthgupta/livesamarthgupta?style=flat-square&logo=github">
@@ -53,11 +52,11 @@
 📍 **Dr. APJ Abdul Kalam Technical University** - Lucknow, India\
 📆 2015 - 2019
 
----
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
+<!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
+<!-- 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k2t2apvvieektb5jr56em6qbwm&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k2t2apvvieektb5jr56em6qbwm&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) -->
+<!-- [![Instagram Badge](https://img.shields.io/badge/-livesamarthgupta-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/livesamarthgupta/)](https://instagram.com/livesamarthgupta) -->
 
 <img src="https://imgur.com/rilHVxA.png"/> 
