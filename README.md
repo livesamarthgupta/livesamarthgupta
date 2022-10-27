@@ -5,7 +5,7 @@
 
 <p>
 
-<span>:computer: Software Engineer @ <em><a href="https://www.teradata.com/">Teradata</a></em></span>
+<span>:computer: Senior Software Engineer @ <em><a href="https://www.paytm.com/">PayTM</a></em></span>
  
 </p>
 <!-- 
@@ -15,18 +15,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-livesamarthgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/livesamarthgupta/)](https://www.linkedin.com/in/livesamarthgupta/)
 [![Gmail Badge](https://img.shields.io/badge/-livesamarthgupta-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:livesamarthgupta@gmail.com)](mailto:livesamarthgupta@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-livesamarthgupta-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/livesamarth)](https://twitter.com/livesamarth)
-<img src="https://badges.pufler.dev/visits/livesamarthgupta/livesamarthgupta?style=flat-square&logo=github">
+<!-- <img src="https://badges.pufler.dev/visits/livesamarthgupta/livesamarthgupta?style=flat-square&logo=github"> -->
 
 
-[![Samarth's github activity graph](https://activity-graph.herokuapp.com/graph?username=livesamarthgupta&theme=xcode)](https://guptasamarth.netlify.app)
-
+<!-- [![Samarth's github activity graph](https://activity-graph.herokuapp.com/graph?username=livesamarthgupta&theme=xcode)](https://guptasamarth.netlify.app) -->
+<!-- 
 ---
 ## Experience
 
 
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="right" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
@@ -51,7 +50,7 @@
 - 📖 **Bachelor of Technology(CS)**\
 📍 **Dr. APJ Abdul Kalam Technical University** - Lucknow, India\
 📆 2015 - 2019
-
+ -->
 
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 <!-- 
