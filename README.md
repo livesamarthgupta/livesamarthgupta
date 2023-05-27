@@ -1,4 +1,4 @@
-<img align='left' src="https://i.imgur.com/ICVXzvW.png" width="230">
+<!-- <img align='left' src="https://i.imgur.com/ICVXzvW.png" width="230"> -->
 </br>
 
 <h1>नमस्ते 🙏🏻, I'm <a href="https://guptasamarth.netlify.app/" target-"_blank">Samarth Gupta!</a><img src="https://media.giphy.com/media/jnP0GEYlnkOxA1eOEo/giphy.gif" width="90"> </h1>
