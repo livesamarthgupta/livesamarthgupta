@@ -1,12 +1,11 @@
-<!-- <img align='left' src="https://i.imgur.com/ICVXzvW.png" width="230"> -->
+<img align='left' src="https://i.imgur.com/ICVXzvW.png" width="230">
 </br>
 
 <h1>नमस्ते 🙏🏻, I'm <a href="https://guptasamarth.netlify.app/" target-"_blank">Samarth Gupta!</a><img src="https://media.giphy.com/media/jnP0GEYlnkOxA1eOEo/giphy.gif" width="90"> </h1>
-
 <p>
 
-<span>:computer: Senior Software Engineer @ <em><a href="https://www.paytm.com/">PayTM</a></em></span>
- 
+<!-- <span>:computer: Senior Software Engineer @ <em><a href="https://www.paytm.com/">PayTM</a></em></span> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=13&pause=1000&color=FFFFFF&vCenter=true&width=435&height=13&lines=Senior+Software+Engineer+%40+PayTM;Former+Software+Engineer+%40+Teradata;Former+Project+Engineer+%40+Wipro)](https://git.io/typing-svg)
 </p>
 <!-- 
 [![Twitter: livesamarthgupta](https://img.shields.io/twitter/follow/livesamarth?style=social&label=follow)](https://twitter.com/d_sarcastic_one)   [![Linkedin: livesamarthgupta](https://img.shields.io/badge/-follow-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/livesamarthgupta/)](https://www.linkedin.com/in/livesamarthgupta/)      [![GitHub livesamarthgupta](https://img.shields.io/github/followers/livesamarthgupta?label=follow&style=social)](https://github.com/livesamarthgupta) -->
@@ -15,8 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-livesamarthgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/livesamarthgupta/)](https://www.linkedin.com/in/livesamarthgupta/)
 [![Gmail Badge](https://img.shields.io/badge/-livesamarthgupta-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:livesamarthgupta@gmail.com)](mailto:livesamarthgupta@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-livesamarthgupta-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/livesamarth)](https://twitter.com/livesamarth)
-<!-- <img src="https://badges.pufler.dev/visits/livesamarthgupta/livesamarthgupta?style=flat-square&logo=github"> -->
-
+<img src="https://badges.pufler.dev/visits/livesamarthgupta/livesamarthgupta?style=flat-square&logo=github">
 
 <!-- [![Samarth's github activity graph](https://activity-graph.herokuapp.com/graph?username=livesamarthgupta&theme=xcode)](https://guptasamarth.netlify.app) -->
 <!-- 
