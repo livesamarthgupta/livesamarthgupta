@@ -1,7 +1,7 @@
 <!-- <img align='left' src="https://i.imgur.com/ICVXzvW.png" width="230"> -->
 </br>
 
-<h3>नमस्ते 🙏🏻, I'm <a href="https://guptasamarth.netlify.app/" target-"_blank">Samarth Gupta!</a> </h3>
+<h2>नमस्ते 🙏🏻, I'm <a href="https://guptasamarth.netlify.app/" target-"_blank">Samarth Gupta!</a> </h2>
 <p>
 
 <!-- <span>:computer: Senior Software Engineer @ <em><a href="https://www.paytm.com/">PayTM</a></em></span> -->
