@@ -13,8 +13,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-livesamarthgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/livesamarthgupta/)](https://www.linkedin.com/in/livesamarthgupta/)
 [![Gmail Badge](https://img.shields.io/badge/-livesamarthgupta-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:livesamarthgupta@gmail.com)](mailto:livesamarthgupta@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-livesamarthgupta-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/livesamarth)](https://twitter.com/livesamarth)
-<img src="https://badges.pufler.dev/visits/livesamarthgupta/livesamarthgupta?style=flat-square&logo=github">
+[![Twitter Badge](https://img.shields.io/badge/-livesamarthgupta-blue?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/livesamarth)](https://twitter.com/livesamarth)
 
 <!-- [![Samarth's github activity graph](https://activity-graph.herokuapp.com/graph?username=livesamarthgupta&theme=xcode)](https://guptasamarth.netlify.app) -->
 <!-- 
