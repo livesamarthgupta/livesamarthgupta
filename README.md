@@ -1,11 +1,11 @@
 <!-- <img align='left' src="https://i.imgur.com/ICVXzvW.png" width="230"> -->
 </br>
 
-<h2>नमस्ते 🙏🏻, I'm <a href="https://guptasamarth.netlify.app/" target-"_blank">Samarth Gupta!</a> </h2>
+<h3>नमस्ते 🙏🏻, I'm <a href="https://guptasamarth.netlify.app/" target-"_blank">Samarth Gupta!</a> </h3>
 <p>
 
 <!-- <span>:computer: Senior Software Engineer @ <em><a href="https://www.paytm.com/">PayTM</a></em></span> -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=13&pause=1000&color=FFFFFF&vCenter=true&width=435&height=16&lines=Senior+Software+Engineer+%40+Target;Former+Software+Engineer+%40+Teradata;Former+Project+Engineer+%40+Wipro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=10&pause=1000&color=FFFFFF&vCenter=true&width=435&height=16&repeat=false&lines=Senior+Software+Engineer+%40+Target)](https://git.io/typing-svg)
 </p>
 <!-- 
 [![Twitter: livesamarthgupta](https://img.shields.io/twitter/follow/livesamarth?style=social&label=follow)](https://twitter.com/d_sarcastic_one)   [![Linkedin: livesamarthgupta](https://img.shields.io/badge/-follow-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/livesamarthgupta/)](https://www.linkedin.com/in/livesamarthgupta/)      [![GitHub livesamarthgupta](https://img.shields.io/github/followers/livesamarthgupta?label=follow&style=social)](https://github.com/livesamarthgupta) -->
